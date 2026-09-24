@@ -67,7 +67,7 @@ AI-SmartSpeak-Assistant/
 
 ## How to Run
 
-1. Open the project in a web browser.
+1. Open `index.html` in a supported web browser.
 2. Allow microphone access when prompted.
 3. Navigate to the **Record** section.
 4. Start recording your speech.
