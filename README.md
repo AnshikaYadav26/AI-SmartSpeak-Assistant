@@ -59,11 +59,9 @@ Stores previous speech sessions and tracks performance improvement over time.
 ## Project Structure
 
 ```text
-SpeakSmart-AI/
+AI-SmartSpeak-Assistant/
 │
-├── HTML
-├── CSS
-├── JavaScript
+├── index.html
 └── README.md
 ```
 
